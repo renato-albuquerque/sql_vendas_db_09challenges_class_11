@@ -18,7 +18,7 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ### Enunciado das Questões:
 ![screenshot](/images/all_questions.png) <br>
     
-## Criar do Banco de Dados
+## Criar o Banco de Dados
 - Comandos SQL: <br>
 ```
 CREATE DATABASE vendas_db;
