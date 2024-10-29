@@ -10,9 +10,9 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ## Etapas de Desenvolvimento
 
 ### Resumo
-- Criar o banco de dados.
-- Criar as tabelas.
-- Inserir os dados nas tabelas.
+- Criar o banco de dados (create database).
+- Criar as tabelas (create table).
+- Inserir os dados nas tabelas (insert into).
 - Resolver 09 desafios + 01 desafio bônus.
 
 ### Enunciado das Questões:
